@@ -1,13 +1,14 @@
 ### Hi there 👋 
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DevJanith&show_icons=true)
 
-## 😂 Here is a random joke that'll make you laugh!
+<!--## 😂 Here is a random joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## ⚡ Fun facts
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJanith&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJanith&theme=blue-green) -->
 
 ## Latest project UEE-2022
 
