@@ -9,7 +9,7 @@
        alt="snake" /></a>
 </div>
   
-<details> 
+<!-- <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
@@ -137,7 +137,7 @@
 ```
 </details>
 <br/>
-</details> 
+</details>  -->
 
 -----
 Credits: [1999AZZAR](https://github.com/1999AZZAR)
