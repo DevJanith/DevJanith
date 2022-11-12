@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ## 4. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=DevJanith)
 ## 5. Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/DevJanith/UEE-2022)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/DevJanith/UEE-2022.git)
