@@ -13,29 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJanith&theme=blue-green)
-
-## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?DevJanith=Tanu-N-Prabhu&show_icons=true)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=DevJanith)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?DevJanith=Tanu-N-Prabhu&theme=blue-green)
 
- <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/ERP_Admin_Portal) -->
+![Profile View Counter](https://komarev.com/ghpvc/?DevJanith=Tanu-N-Prabhu)
 
 
+<!--## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python) -->
 
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
-## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
-## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
-## 4. Random Joke Generator
-![Jokes Card](https://readme-jokes.vercel.app/api)
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+<!-- ### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python) -->
