@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 > ⚡ Fun facts
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DevJanith&show_icons=true)
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJanith&theme=blue-green)
 
 ### Latest project UEE-2022
-![Your Repository's Stats](https://contrib.rocks/image?repo=DevJanith/UEE-2022)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/DevJanith/UEE-2022)
+![Your Repository's Stats](https://contrib.rocks/image?repo=DevJanith/UEE-2022) 
