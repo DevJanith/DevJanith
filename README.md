@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJanith&theme=blue-green)
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/ERP_Admin_Portal)
+![Profile View Counter](https://komarev.com/ghpvc/?username=DevJanith)
+
+ <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/ERP_Admin_Portal) -- >
