@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 1. GitHub Stats
+> ⚡ Fun facts
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DevJanith&show_icons=true)
-## 2. Most Used Languages
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJanith&theme=blue-green)
-## 3. Contributors Badge
+
+### Latest project UEE-2022
 ![Your Repository's Stats](https://contrib.rocks/image?repo=DevJanith/UEE-2022)
-## 4. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=DevJanith)
-## 5. Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/DevJanith/UEE-2022.git)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/DevJanith/UEE-2022)
