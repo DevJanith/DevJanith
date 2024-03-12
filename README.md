@@ -51,3 +51,11 @@
 
 Feel free to explore my repositories, and let's connect to create something extraordinary! 😊
 
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevJanith&show_icons=true&count_private=true&hide=contribs" alt="Janith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJanith&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevJanith&theme=rogue" alt="GitHub Streak" />
+</div>
+
