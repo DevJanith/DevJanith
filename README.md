@@ -33,9 +33,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJanith&layout=compact)
 
-#### Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DevJanith&theme=rogue)
+#### GitHub Activity
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevJanith&theme=rogue)](https://git.io/streak-stats)
 
 ### 📫 Let's Connect
 
