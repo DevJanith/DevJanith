@@ -3,6 +3,8 @@
   <p align="center">Passionate about crafting elegant solutions through code and exploring the endless possibilities in technology.</p>
 </div> 
 
+ ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
 ---
 
 ### 🚀 About Me
