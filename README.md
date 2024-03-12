@@ -3,8 +3,6 @@
   <p align="center">Passionate about crafting elegant solutions through code and exploring the endless possibilities in technology.</p>
 </div> 
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DevJanith&theme=rogue&custom_title=Snake%20Game&hide_title=true)
-
 ---
 
 ### 🚀 About Me
