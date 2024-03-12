@@ -16,12 +16,7 @@
 - 💻 Languages: JavaScript, Python, Java
 - 🛠️ Tools: React, Node.js, Django, Git
 - 🌐 Web Development: HTML, CSS, Bootstrap
-- 📱 Mobile Development: React Native
-
-### 🌟 Featured Projects
-
-- [Fit Pro ERP](https://github.com/your-username/fit-pro-erp): Developed end-to-end functionalities using React, TypeScript, Java, Spring Boot, and various databases.
-- [EDCS ERP Application](https://github.com/your-username/edcs-erp): Led the development of Finance and Claim RI modules using React, TypeScript, Java, Spring Boot, and various databases.
+- 📱 Mobile Development: React Native 
 
 ### 📊 Statistics
 
@@ -49,13 +44,4 @@
 - Master New Technology.
 - Inspire and mentor aspiring developers.
 
-Feel free to explore my repositories, and let's connect to create something extraordinary! 😊
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevJanith&show_icons=true&count_private=true&hide=contribs" alt="Janith's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJanith&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevJanith&theme=rogue" alt="GitHub Streak" />
-</div>
-
+Feel free to explore my repositories, and let's connect to create something extraordinary! 😊 
