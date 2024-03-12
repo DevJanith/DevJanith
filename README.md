@@ -11,6 +11,10 @@
 - 💡 Enthusiastic collaborator on open source projects, contributing to the tech community.
 - 📚 Currently honing my skills in software development as a Software Engineer.
 
+### 🎮 Snake Game
+
+<iframe height="400px" width="100%" src="https://github.com/DevJanith/DevJanith/blob/output/github-contribution-grid-snake.svg"></iframe>
+
 ### 🔧 Tech Stack
 
 - 💻 Languages: JavaScript, Python, Java
