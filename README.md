@@ -23,6 +23,20 @@
 - [Fit Pro ERP](https://github.com/your-username/fit-pro-erp): Developed end-to-end functionalities using React, TypeScript, Java, Spring Boot, and various databases.
 - [EDCS ERP Application](https://github.com/your-username/edcs-erp): Led the development of Finance and Claim RI modules using React, TypeScript, Java, Spring Boot, and various databases.
 
+### 📊 Statistics
+
+#### GitHub Activity
+
+![Janith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevJanith&show_icons=true&count_private=true&hide=contribs)
+
+#### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJanith&layout=compact)
+
+#### Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DevJanith&theme=rogue)
+
 ### 📫 Let's Connect
 
 - 📧 Email: janithgamage1.ed@gmail.com
